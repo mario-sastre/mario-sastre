@@ -19,7 +19,7 @@ Always eager to learn, innovate, and collaborate on exciting projects!
 
 ### Languages & Technologies
 
-![ISO_C++_Logo svg](https://github.com/user-attachments/assets/dabb671b-47f8-474c-bf86-1fc41e07f2a9)
+![ISO_C++_Logo svg](https://github.com/user-attachments/assets/dabb671b-47f8-474c-bf86-1fc41e07f2a9)(IMAGE_URL | width=300)
 
 ![226777](https://github.com/user-attachments/assets/40746e4e-bb08-4ba1-85d0-514355a9505c)
 ![Python-logo-notext svg](https://github.com/user-attachments/assets/bfd67f64-958a-4a71-a88e-8513a812dd97)
