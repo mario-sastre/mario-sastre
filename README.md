@@ -11,7 +11,7 @@ My experience spans **backend development, cybersecurity, and DevOps**, where I'
 ### **My Journey at Honeywell 🚀**  
 - **2022** – Joined as a **Software Engineer Intern**  
 - **2023** – Promoted to **Software Engineer I**  
-- **2024** – Recently advanced to **Software Engineer II** 🎉  
+- **2025** – Recently advanced to **Software Engineer II** 🎉  
 
 Always eager to learn, innovate, and collaborate on exciting projects!  
 
