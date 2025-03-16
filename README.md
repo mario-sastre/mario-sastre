@@ -38,7 +38,7 @@ Always eager to learn, innovate, and collaborate on exciting projects!
 <img src="https://github.com/user-attachments/assets/8a8dfafa-69b1-4373-8937-8eb986a518ac" alt="Other Image 1" width="70">
 <img src="https://github.com/user-attachments/assets/0bd60b9f-f6bc-4d8c-b521-9e19087bfe61" alt="Other Image 2" width="70">
 <img src="https://github.com/user-attachments/assets/fdb349aa-574c-45a1-b0d6-30b19c5f5bb1" alt="Other Image 3" width="70">
-<img src="https://github.com/user-attachments/assets/3bc75878-8bd4-4a4a-a6b8-8d85552c04ed" alt="Ansible Logo" width="100">
+<img src="https://github.com/user-attachments/assets/3bc75878-8bd4-4a4a-a6b8-8d85552c04ed" alt="Ansible Logo" width="90">
 
 
 <!--
