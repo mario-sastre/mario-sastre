@@ -39,6 +39,7 @@ Always eager to learn, innovate, and collaborate on exciting projects!
 <img src="https://github.com/user-attachments/assets/0bd60b9f-f6bc-4d8c-b521-9e19087bfe61" alt="Other Image 2" width="60">
 <img src="https://github.com/user-attachments/assets/fdb349aa-574c-45a1-b0d6-30b19c5f5bb1" alt="Other Image 3" width="60">
 <img src="https://github.com/user-attachments/assets/3bc75878-8bd4-4a4a-a6b8-8d85552c04ed" alt="Ansible Logo" width="80">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4373190%2Fdocker_logo_logos_icon&psig=AOvVaw1hjqr8KC_bolxuG7t8jUyR&ust=1742228991293000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMitiPOCj4wDFQAAAAAdAAAAABAJ" alt="Ansible Logo" width="80">
 
 
 <!--
