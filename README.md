@@ -40,8 +40,6 @@ Always eager to learn, innovate, and collaborate on exciting projects!
 <img src="https://github.com/user-attachments/assets/fdb349aa-574c-45a1-b0d6-30b19c5f5bb1" alt="Other Image 3" width="70">
 <img src="https://github.com/user-attachments/assets/3bc75878-8bd4-4a4a-a6b8-8d85552c04ed" alt="Ansible Logo" width="90">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" alt="Ansible Logo" width="90">
-
 
 <!--
 **mario-sastre/mario-sastre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
