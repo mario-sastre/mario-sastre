@@ -32,7 +32,7 @@ Always eager to learn, innovate, and collaborate on exciting projects!
 <img src="https://github.com/user-attachments/assets/be4f289b-eb1b-4fc8-8d2a-ada92736ebab" alt="TypeScript Logo" width="70">
 
 <!-- Spring Boot Logo -->
-<img src="https://github.com/user-attachments/assets/e43573c7-606e-4a13-af6f-57228cad9094" alt="Spring Boot Logo" width="70">
+<img src="https://github.com/user-attachments/assets/e43573c7-606e-4a13-af6f-57228cad9094" alt="Spring Boot Logo" width="110">
 
 <!-- Other Images -->
 <img src="https://github.com/user-attachments/assets/8a8dfafa-69b1-4373-8937-8eb986a518ac" alt="Other Image 1" width="70">
